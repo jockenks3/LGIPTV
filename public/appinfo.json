@@ -1,0 +1,12 @@
+{
+  "id": "com.example.iptvplayer",
+  "version": "1.0.0",
+  "vendor": "Developer Name",
+  "type": "web",
+  "main": "index.html",
+  "title": "StreamPlayer",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "resolution": "1920x1080",
+  "disableBackHistoryAPI": true
+}
